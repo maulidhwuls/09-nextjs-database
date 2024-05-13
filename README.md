@@ -45,4 +45,7 @@ Kelas : TI - 3A
 ![Screenshoot](assets/W09-1.png)
 Setelah melakukan deploy project menggunakan vercel dapat diketahui bahwa vercel dapat melakukan deploy serverless functions dan database, artinya kita tidak perlu membeli atau mengelola server sendiri. Vercel juga memberikan layanan database yang dikelola sepenuhnya serta platform yang terpadu untuk hosting, deployment, dan database.
 
-2. 
+2. Disini kita membuat database dengan menggunakan postgres.
+![Screenshoot](assets/W09-2.png)
+
+3. 
