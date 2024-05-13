@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## LAPORAN TUGAS WEEK 9
+Nama : Wulan Maulidiah
+NIM : 2341728038
+Kelas : TI - 3A
+
+1. Bukti deploy
+![Screenshoot](assets/W09-1.png)
+Setelah melakukan deploy project menggunakan vercel dapat diketahui bahwa vercel dapat melakukan deploy serverless functions dan database, artinya kita tidak perlu membeli atau mengelola server sendiri. Vercel juga memberikan layanan database yang dikelola sepenuhnya serta platform yang terpadu untuk hosting, deployment, dan database.
+
+2. 
