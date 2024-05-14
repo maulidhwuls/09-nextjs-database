@@ -48,4 +48,7 @@ Setelah melakukan deploy project menggunakan vercel dapat diketahui bahwa vercel
 2. Disini kita membuat database dengan menggunakan postgres.
 ![Screenshoot](assets/W09-2.png)
 
-3. 
+3. Setelah database dibuat, selanjutnya kita membuat tabel, yang mana pada file src/seeder/seed.js terdapat instruksi dengan menggunakan query SQL untuk membuat tabel user, invoices, customers, dan revenue. Kemudian instruksi untuk mengisi data dari tabel-tabel tersebut terdapat pada file src/seeder/data.js. Untuk mengeksekusi kedua file tersebut jalankan perintah "npm run seed" pada terminal.
+![Screenshoot](assets/W09-3.png)
+
+4. 
