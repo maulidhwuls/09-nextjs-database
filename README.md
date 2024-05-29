@@ -54,4 +54,9 @@ Setelah melakukan deploy project menggunakan vercel dapat diketahui bahwa vercel
 4. Pada query tersebut digunakan untuk menampilkan data kolom customer_id, amount, dan status dari tabel Invoices yang hanya memiliki status pending.
 ![Screenshoot](assets/W09-4.png)
 
-5.
+5. Berikut tampilan dashboard 
+![Screenshoot](assets/W09-5.png)
+
+6. Pada bagian ini kita memanggil komponen chart yang sudah disimpan pada folder atom.
+![Screenshoot](assets/W09-6.png)
+
