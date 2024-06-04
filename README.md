@@ -63,3 +63,9 @@ link: https://vercel.com/wulan-maulidiahs-projects/09-nextjs-database
 
 7. Untuk menampilkan gambar, buat sebuah folder customers dalam folder public kemudian masukkan file gambar dengan ekstensi .png dengan nama file gambar disesuaikan dengan nama masing-masing.
 ![Screenshoot](assets/W09-7a.png)
+
+Tugas praktikum
+1. Jawaban praktikum 1
+![Screenshoot](assets/W09-praktikum.png)
+
+2. Dalam nomor 1 terdapat proses desktrukturisasi hasil, Hasil dari fetchCardData adalah sebuah objek yang berisi statistik seperti jumlah faktur (numberOfInvoices), jumlah pelanggan (numberOfCustomers), total faktur yang telah dibayar (totalPaidInvoices), dan total faktur yang masih tertunda (totalPendingInvoices). Objek ini di-destrukturisasi menjadi variabel-variabel yang terpisah, sehingga kita dapat menggunakan variabel tersebut secara langsung dalam fungsi Page.
