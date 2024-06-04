@@ -55,8 +55,10 @@ Setelah melakukan deploy project menggunakan vercel dapat diketahui bahwa vercel
 ![Screenshoot](assets/W09-4.png)
 
 5. Berikut tampilan dashboard 
-![Screenshoot](assets/W09-5.png)
+![Screenshoot](assets/W09-5a.png)
+link: https://vercel.com/wulan-maulidiahs-projects/09-nextjs-database
 
 6. Pada bagian ini kita memanggil komponen chart yang sudah disimpan pada folder atom.
 ![Screenshoot](assets/W09-6.png)
 
+7. 
