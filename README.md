@@ -61,4 +61,5 @@ link: https://vercel.com/wulan-maulidiahs-projects/09-nextjs-database
 6. Pada bagian ini kita memanggil komponen chart yang sudah disimpan pada folder atom.
 ![Screenshoot](assets/W09-6.png)
 
-7. 
+7. Untuk menampilkan gambar, buat sebuah folder customers dalam folder public kemudian masukkan file gambar dengan ekstensi .png dengan nama file gambar disesuaikan dengan nama masing-masing.
+![Screenshoot](assets/W09-7a.png)
