@@ -69,3 +69,7 @@ Tugas praktikum
 ![Screenshoot](assets/W09-praktikum.png)
 
 2. Dalam nomor 1 terdapat proses desktrukturisasi hasil, Hasil dari fetchCardData adalah sebuah objek yang berisi statistik seperti jumlah faktur (numberOfInvoices), jumlah pelanggan (numberOfCustomers), total faktur yang telah dibayar (totalPaidInvoices), dan total faktur yang masih tertunda (totalPendingInvoices). Objek ini di-destrukturisasi menjadi variabel-variabel yang terpisah, sehingga kita dapat menggunakan variabel tersebut secara langsung dalam fungsi Page.
+
+## WEEK 10
+1. Pada bagian ini terdapat error pada saat melakukan import logo dengan kode error "module not found", hal ini terjadi karena jenis logo yang digunakan belum diinstall.
+![Screenshoot](assets/W10-1.png)
