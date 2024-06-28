@@ -73,3 +73,5 @@ Tugas praktikum
 ## WEEK 10
 1. Pada bagian ini terdapat error pada saat melakukan import logo dengan kode error "module not found", hal ini terjadi karena jenis logo yang digunakan belum diinstall.
 ![Screenshoot](assets/W10-1.png)
+
+2. Pada bagian ini kita membuat form login yang dapat menghubungkan logika autentikasi dengan membuat sebuah file yang di dalamnya terdapat komponen authenticate. Selanjutnya juga membuat komponen button yang nantinya akan diimport pada file form login. 
